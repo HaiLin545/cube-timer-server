@@ -1,0 +1,13 @@
+nohup: ignoring input
+3/26/2023, 12:33:48 PM Server running on port 5454
+connectd to mongodb.
+3/26/2023, 1:13:35 PM get open id
+3/26/2023, 1:13:35 PM login
+3/26/2023, 1:16:12 PM get open id
+3/26/2023, 1:16:12 PM login
+3/26/2023, 1:18:47 PM sync up
+3/26/2023, 1:28:35 PM get open id
+3/26/2023, 1:28:35 PM login
+3/26/2023, 1:29:11 PM get open id
+3/26/2023, 1:29:12 PM login
+3/26/2023, 1:31:29 PM sync down { openid: 'ocH4l48GpE6QL6-BIQzmOOTYkdAE' }
